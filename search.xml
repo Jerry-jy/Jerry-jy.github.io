@@ -1,6 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>网站说明</title>
+    <url>/2023/02/25/%E7%BD%91%E7%AB%99%E8%AF%B4%E6%98%8E/</url>
+    <content><![CDATA[<h1 id="个人网站，用于求职"><a href="#个人网站，用于求职" class="headerlink" title="个人网站，用于求职"></a>个人网站，用于求职</h1><p>本想做一个在线的个人网站，用于求职挂在简历上，但是后来有觉得：一份网站仅仅用来展示我的求职意愿，不太好</p>
+<ul>
+<li><p>1、容易泄露个人隐私信息，</p>
+</li>
+<li><p>2、网站资源太过于浪费</p>
+</li>
+</ul>
+<p>但是，拿这种个人网站写博客的话，跟CSDN专业的博客网站相比，有如下不足：</p>
+<ul>
+<li><p>1、每次写博客，图片资源托管很麻烦</p>
+</li>
+<li><p>2、每次发布博客的话，需要git bash命令行来操作，每次都要重新build ， deploy，解决办法：可以通过流水线 持续集成（Continuous integration，缩写 CI）的方式来完成。</p>
+</li>
+</ul>
+<p>网站待完善的功能：</p>
+<ul>
+<li><p>1、站内的图片资源的托管服务没完成，目前我站内的几张图片是通过PicX图床工具来免费托管的，当然也可以使用阿里云OSS对象存储服务来完成，但是额外要花钱</p>
+</li>
+<li><p>2、网站的域名<a class="link" href="https://jerry-jy.co/">https://jerry-jy.co/<i class="fas fa-external-link-alt"></i></a>还没有被百度和谷歌收录，以后再考虑SEO(Search Engine Optimization)优化</p>
+</li>
+<li><p>3、网站是托管在Github上，访问速度有点儿慢，虽然用户体验差点儿，但是免费。以后再考虑租云服务器</p>
+</li>
+</ul>
+]]></content>
+      <categories>
+        <category>简历</category>
+      </categories>
+      <tags>
+        <tag>简历</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2022/10/25/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo<i class="fas fa-external-link-alt"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation<i class="fas fa-external-link-alt"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting<i class="fas fa-external-link-alt"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub<i class="fas fa-external-link-alt"></i></a>.</p>
@@ -26,27 +60,27 @@
   </entry>
   <entry>
     <title>resume</title>
-    <url>/2023/02/25/resume/</url>
+    <url>/2023/02/25/%E4%B8%AA%E4%BA%BA%E7%AE%80%E5%8E%86/</url>
     <content><![CDATA[ <center>
      <h1>金阳</h1>
      <div>
          <span>
-             <img lazyload="" alt="image" data-src="assets/phone-solid.svg" width="18px">
+             <img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/phone-solid.3gb3uq6cvym0.webp" width="18px">
              176****9248
          </span>
          ·
          <span>
-             <img lazyload="" alt="image" data-src="assets/envelope-solid.svg" width="18px">
+             <img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/envelope-solid.185f7its2h40.webp" width="18px">
              jinyang9248@163.com
          </span>
          ·
          <span>
-             <img lazyload="" alt="image" data-src="assets/github-brands.svg" width="18px">
+             <img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/github-brands.3w44p5o7c5q0.webp" width="18px">
              <a class="link" href="https://github.com/Jerry-jy">Jerry-jy<i class="fas fa-external-link-alt"></i></a>
          </span>
          ·
          <span>
-             <img lazyload="" alt="image" data-src="assets/rss-solid.svg" width="18px">
+             <img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/rss-solid.6sphqafdqts0.webp" width="18px">
              <a class="link" href="https://blog.csdn.net/qq_44807756?type=blog">CSDN<i class="fas fa-external-link-alt"></i></a>
          </span>
      </div>
@@ -55,35 +89,36 @@
 
 
 
-<h2 id="个人信息"><a href="#个人信息" class="headerlink" title=" 个人信息"></a><img lazyload="" alt="image" data-src="E:/typora/info-circle-solid.svg" width="30px"> 个人信息</h2><ul>
-<li><p>男，1998 年出生</p>
+
+<h2 id="个人信息"><a href="#个人信息" class="headerlink" title=" 个人信息"></a><img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/info-circle-solid.6988ci3rp3c0.webp" width="30px"> 个人信息</h2><ul>
+<li><p>男，1998 年</p>
 </li>
 <li><p>政治面貌：中共党员</p>
 </li>
-<li><p>求职意向：Java 研发工程师</p>
+<li><p>求职意向：Java 工程师</p>
 </li>
 <li><p>期望薪资：20k</p>
 </li>
 </ul>
-<h2 id="教育经历"><a href="#教育经历" class="headerlink" title=" 教育经历"></a><img lazyload="" alt="image" data-src="E:/typora/graduation-cap-solid.svg" width="30px"> 教育经历</h2><ul>
-<li>硕士，湖北工业大学，计算机科学与技术专业，2021.9~2024.6</li>
-<li>研究方向，网络安全与管理</li>
+<h2 id="教育经历"><a href="#教育经历" class="headerlink" title=" 教育经历"></a><img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/graduation-cap-solid.6cjo2n6ceno0.webp" width="30px"> 教育经历</h2><ul>
+<li>学校：湖北工业大学，计算机科学与技术专业，2021.9~2024.6</li>
+<li>学历、研究方向：硕士，网络安全与管理</li>
 <li>证书：中级网络工程师</li>
 <li>英语水平： CET-6</li>
 </ul>
-<h2 id="实习经历"><a href="#实习经历" class="headerlink" title=" 实习经历"></a><img lazyload="" alt="image" data-src="E:/typora/briefcase-solid.svg" width="30px"> 实习经历</h2><ul>
+<h2 id="实习经历"><a href="#实习经历" class="headerlink" title=" 实习经历"></a><img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/briefcase-solid.ivm54tthmf4.webp" width="30px"> 实习经历</h2><ul>
 <li><p><strong>XXXX 公司，设计研发部，软件工程师，2020.6~2021.9</strong></p>
 <p>负责 XXX</p>
 </li>
 </ul>
-<h2 id="项目经历"><a href="#项目经历" class="headerlink" title=" 项目经历"></a><img lazyload="" alt="image" data-src="E:/typora/project-diagram-solid.svg" width="30px"> 项目经历</h2><ul>
+<h2 id="项目经历"><a href="#项目经历" class="headerlink" title=" 项目经历"></a><img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/project-diagram-solid.6fmjerrjunk0.webp" width="30px"> 项目经历</h2><ul>
 <li><p><strong>Reggie 外卖 项目</strong></p>
 <p><em>后台框架主要使用：SpringBoot + MyBatisPlus</em></p>
 <p>项目分为<strong>后台系统管理</strong>和<strong>移动端</strong>两部分，后台系统管理供商家：对菜品、套餐、订单等进行管理维护等功能，移动端供消费者：在线浏览，添加购物车，下单 等功能。</p>
 <p>负责 XXX</p>
 </li>
 </ul>
-<h2 id="技能清单"><a href="#技能清单" class="headerlink" title=" 技能清单"></a><img lazyload="" alt="image" data-src="E:/typora/tools-solid.svg" width="30px"> 技能清单</h2><ul>
+<h2 id="技能清单"><a href="#技能清单" class="headerlink" title=" 技能清单"></a><img lazyload="" alt="image" data-src="https://cdn.staticaly.com/gh/Jerry-jy/image-hosting@master/tools-solid.561ca4ulxnk0.webp" width="30px"> 技能清单</h2><ul>
 <li>★★★ Java</li>
 <li>★★☆ Maven、Git</li>
 <li>★★★ MySQL</li>
