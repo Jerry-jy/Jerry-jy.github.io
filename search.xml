@@ -3,14 +3,8 @@
   <entry>
     <title>网站说明</title>
     <url>/2023/02/25/%E7%BD%91%E7%AB%99%E8%AF%B4%E6%98%8E/</url>
-    <content><![CDATA[<h1 id="个人网站，用于求职"><a href="#个人网站，用于求职" class="headerlink" title="个人网站，用于求职"></a>个人网站，用于求职</h1><p>本想做一个在线的个人网站，用于求职挂在简历上，但是后来有觉得：一份网站仅仅用来展示我的求职意愿，不太好</p>
-<ul>
-<li><p>1、容易泄露个人隐私信息，</p>
-</li>
-<li><p>2、网站资源太过于浪费</p>
-</li>
-</ul>
-<p>但是，拿这种个人网站写博客的话，跟CSDN专业的博客网站相比，有如下不足：</p>
+    <content><![CDATA[<h1 id="个人网站说明"><a href="#个人网站说明" class="headerlink" title="个人网站说明"></a>个人网站说明</h1><p>本想做一个在线的个人网站，用于求职挂在简历上，但是后来又觉得：一份网站仅仅用来展示我的求职意愿不太好，网站资源过于浪费。</p>
+<p>但是，拿这种个人网站写博客的话，跟CSDN专业的博客网站相比，存在如下不足：</p>
 <ul>
 <li><p>1、每次写博客，图片资源托管很麻烦</p>
 </li>
@@ -29,10 +23,10 @@
 </ul>
 ]]></content>
       <categories>
-        <category>简历</category>
+        <category>网站说明</category>
       </categories>
       <tags>
-        <tag>简历</tag>
+        <tag>网站说明</tag>
       </tags>
   </entry>
   <entry>
@@ -68,41 +62,47 @@
 
 
 <h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><ul>
-<li><p>男，1998 年</p>
+<li><p>男</p>
 </li>
 <li><p>政治面貌：中共党员</p>
 </li>
 <li><p>求职意向：Java 工程师</p>
 </li>
-<li><p>期望薪资：20k</p>
-</li>
 </ul>
-<h2 id="教育经历"><a href="#教育经历" class="headerlink" title="教育经历"></a>教育经历</h2><ul>
+<h2 id="教育背景"><a href="#教育背景" class="headerlink" title="教育背景"></a>教育背景</h2><ul>
 <li>学校：湖北工业大学，计算机科学与技术专业，2021.9~2024.6</li>
-<li>学历、研究方向：硕士，网络安全与管理</li>
-<li>证书：中级网络工程师</li>
-<li>英语水平： CET-6</li>
-</ul>
-<h2 id="实习经历"><a href="#实习经历" class="headerlink" title="实习经历"></a>实习经历</h2><ul>
-<li><p><strong>XXXX 公司，设计研发部，软件工程师，2020.6~2021.9</strong></p>
-<p>负责 XXX</p>
-</li>
-</ul>
-<h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><ul>
-<li><p><strong>Reggie 外卖 项目</strong></p>
-<p><em>后台框架主要使用：SpringBoot + MyBatisPlus</em></p>
-<p>项目分为<strong>后台系统管理</strong>和<strong>移动端</strong>两部分，后台系统管理供商家：对菜品、套餐、订单等进行管理维护等功能，移动端供消费者：在线浏览，添加购物车，下单 等功能。</p>
-<p>负责 XXX</p>
-</li>
+<li>学历/研究方向：硕士/网络安全与管理</li>
 </ul>
 <h2 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a>技能清单</h2><ul>
-<li>★★★ Java</li>
-<li>★★☆ Maven、Git</li>
-<li>★★★ MySQL</li>
-<li>★★★ Redis</li>
-<li>★★☆ Spring、SpringMVC、MyBatis</li>
-<li>★☆☆ RabbitMQ、ZooKeeper</li>
-<li>★★☆ SpringBoot 、MyBatisPlus</li>
+<li><strong>专业知识：</strong>掌握常用的数据结构及算法，计算机网络，操作系统，计算机组成原理的相关知识</li>
+<li><strong>Java：</strong>掌握java IO流、集合、多线程、反射，泛型，注解，网络编程等基础开发技术；熟悉java8中Lambda表达式，stream流使用，了解JVM垃圾收集机制、GC算法、JVM常用配置参数</li>
+<li><strong>Javaweb：</strong>熟悉web应用开发，掌握TCP/IP协议，HTTP协议</li>
+<li><strong>SQL：</strong>熟悉SQL语句的编写，SQL优化，索引优化，InnoDB存储引擎，事务，锁，分库分表，主从复制</li>
+<li><strong>框架：</strong>熟悉SSM，SpringBoot等框架使用，了解spring IOC ,springAop springs事物核心源码,阅读过springmvc请求流程核心源码以及springboot自动装配原理</li>
+<li><strong>微服务：</strong>熟悉SpringCloudAlibaba: Eureka，Nacos，Feign，Ribbon，Gateway，Sentinel，Seata。</li>
+<li><strong>前端：</strong>了解HTML，CSS，JavaScript，Vue，Node.js，ES6，axios，element-ui</li>
+</ul>
+<h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><h3 id="外卖项目"><a href="#外卖项目" class="headerlink" title="外卖项目"></a><a class="link" href="https://gitee.com/jinyang-jy/reggie">外卖项目<i class="fas fa-external-link-alt"></i></a></h3><p><strong>项目简介</strong></p>
+<p>项目分为后台系统管理和前台用户系统两部分。后台系统管理供商家：对菜品、套餐、订单等进行管理维护等功能，移动端供消费者：在线浏览，添加购物车，下单等功能</p>
+<p><strong>技术栈：</strong>SpringBoot + MyBatisPlus + Redis + MySQL+Vue</p>
+<p><strong>负责模块：</strong>菜品管理、套餐管理、员工管理等开发</p>
+<p><strong>主要工作：</strong></p>
+<p>1、使用阿里云的oss进行文件存储，整合第三方短信服务发送用户注册的验证码，将验证码从保存在Redis中，解决验证码设置过期时间问题；</p>
+<p>2、使用了Nginx进行前端的反向代理以及负载均衡，使用 Sharding-JDBC 进行分库分表，实现主从复制，读写分离；</p>
+<p>3、使用SpringCache和Redis实现缓存功能，将菜品数据缓存在Redis中，缓解MySQL性能问题。</p>
+<h3 id="云上办公系统"><a href="#云上办公系统" class="headerlink" title="云上办公系统"></a><a class="link" href="https://gitee.com/jinyang-jy/OnlineOfficeSystem">云上办公系统<i class="fas fa-external-link-alt"></i></a></h3><p><strong>项目简介</strong></p>
+<p>云上办公系统是一套自动办公系统，用户可以通过手机微信扫码关注公众号，在公众号上提交申请表单，后台不同权限的负责人能接收到申请表单，完成OA审批流程。</p>
+<p><strong>技术栈</strong></p>
+<p>服务器端：SpringBoot + MyBatisPlus + SpringSecurity + Redis + Activiti+ MySQL</p>
+<p>前端：Node.js + Npm + Vue + ElementUI + Axios</p>
+<p><strong>负责模块：</strong>用户认证、用户权限控制、流程审批管理</p>
+<p><strong>主要工作</strong></p>
+<p>1、负责全部后台接口功能以及前后端联调开发，前后端分离开发； </p>
+<p>2、引入JWT加密token，用作用户登录身份校验，用 SpringSecurity 来做权限控制，查询登录者的权限，对登录者进行认证和授权操作，并封装SpringBoot全局统一异常处理类来捕获异常；</p>
+<p>3、引入工作流引擎，使用Actviti组件，简化完成OA审批流程，采用Knife4j进行统一的接口测试。</p>
+<h2 id="证书"><a href="#证书" class="headerlink" title="证书"></a>证书</h2><ul>
+<li>证书：网络工程师</li>
+<li>英语水平： CET-6</li>
 </ul>
 ]]></content>
       <categories>
